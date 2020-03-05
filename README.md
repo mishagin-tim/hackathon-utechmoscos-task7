@@ -1,4 +1,4 @@
-![logo](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo")
+![logo](https://github.com/mishagin-tim/hackathon-utechmoscos-task7/blob/master/Urban-Tech-Moscow.jpg "Logo")
 
 # Задача: «Оптимизация расходов на санитарное содержание улиц»
 
