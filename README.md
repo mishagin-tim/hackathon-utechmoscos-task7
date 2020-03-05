@@ -1,3 +1,5 @@
+![logo](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo")
+
 # Задача: «Оптимизация расходов на санитарное содержание улиц»
 
 ## Направление «Умный город»
